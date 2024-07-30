@@ -1,6 +1,6 @@
 # JESUS GRULLON 2021-0915 
 
-Este documento resume los selectores CSS aplicados durante la actividad de CSS Diner.
+
 
 ## Type selector
 
